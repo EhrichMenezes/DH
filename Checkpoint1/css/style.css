@@ -1,0 +1,41 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=PT+Sans:ital@1&family=Rubik:ital,wght@1,300&display=swap');
+</style>
+*{}
+body{
+    background: url(https://www.opovo.com.br/_midias/jpg/2021/02/09/arco_sobral_camila_de_almeida_06_agosto_2016-14850203.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 2500px;
+}
+h1{
+    font-family: 'Bree Serif',serif;
+    background-color:gray;
+    text-align: center;
+    padding: 0px 20px;
+}
+main{
+    font-family: 'Rubik',sans-serif;
+    padding: 0% 10%;
+    text-align:left ;
+    color:blue;
+}
+iframe{
+    width: 1280px ;
+    height: 720px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    font-family: 'PT Sans',sans-serif;
+    color: mintcream;
+    text-align: center;
+    padding: 1% 25%;
+    
+}
+ul{
+    font-family: 'Rubik',sans-serif;
+    text-align: center;
+    color:coral;
+    padding: 0% 8%;
+}
